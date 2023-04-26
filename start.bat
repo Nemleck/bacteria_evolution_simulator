@@ -1,6 +1,6 @@
 :start
 
-py simulation.py
+python simulation.py
 
 PAUSE
 
