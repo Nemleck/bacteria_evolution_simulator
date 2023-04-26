@@ -1,0 +1,23 @@
+{
+    "phagocyte": {
+        "amount": 10,
+        "size": 0.5,
+        "speed": 0.5,
+        "turnSpeed": 0.5,
+        "startPosition": {
+            "x": 0,
+            "y": 0
+        },
+        "bacteriaDetectionDistance": 20
+    },
+    "bacteria": {
+        "amount": 20,
+        "amountToChangeGeneration": 10,
+        "size": [10, 30],
+        "reproductionSize": [0, 100],
+        "speed": [0, 7],
+        "detection": [0, 5],
+        "keepDirectionChances": [0, 10],
+        "detectionMultiplier": 20
+    }
+}
